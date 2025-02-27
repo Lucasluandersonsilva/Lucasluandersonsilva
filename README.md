@@ -5,7 +5,7 @@
 
 💁🏻‍♀️ **Sobre mim**
 
-Apaixonado por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
+Apaixonado por desafios e aprendizado constante, sou um profissional proativo que busca soluções inovadoras e entregas de resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
 
 🔍 **Minha experiência:**
 
