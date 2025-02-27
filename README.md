@@ -10,8 +10,8 @@ Apaixonado por desafios e aprendizado constante, sou um profissional proativo qu
 🔍 **Minha experiência:**
 
 
- Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
- Metodologias ágeis: Atuei em projetos com metodologia Scrum e kanban, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
+ Especialista em testes: possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
+ Metodologias ágeis: atuei em projetos com metodologia Scrum e Kanban, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
 
 ⚙ **Habilidades técnicas:** Linguagens de programação: Java e JavaScript 
 
@@ -23,11 +23,10 @@ Apaixonado por desafios e aprendizado constante, sou um profissional proativo qu
 
 🐞 **Marca Pessoal:**
 
- Com perfil totalmente hands-on e rápido midset com diferentes tecnologias. Estou sempre em busca de melhorias, 
- buscando sempre a minha melhor versão, desenvolvendo minhas habilidades em qualidade de automação de testes na liguagem de programação Java e JavaScript.
- Como analista de teste realizo o plenajamento de acordo com as prioridades do PO. Execução de testes manuais ou automatizado dado a estratégia de testes,
- o framework de teste webs realizo por meio do java, selenium, cucumber em um projeto maven, os testes de API são executados via postman em apis rest.
- No meu trabalho priorizo o conceito de shift left testing.
+Com perfil totalmente hands-on e rápido mindset com diferentes tecnologias. Estou sempre em busca de melhorias. 
+Buscando sempre a minha melhor versão, desenvolvendo minhas habilidades em qualidade de automação de testes na linguagem de programação Java e JavaScript.
+Como analista de teste, realizo o planejamento de acordo com as prioridades do PO. Execução de testes manuais ou automatizados, dado a estratégia de testes.
+O framework de teste web é realizado por meio do Java, Selenium, Cucumber em um projeto Maven, os testes de API são executados via Postman em APIs REST. No meu trabalho, priorizo o conceito de shift left testing.
 
   ##### Você me encontra em:
   <a href="https://www.linkedin.com/in/lucas-luanderson-qasenior/">
