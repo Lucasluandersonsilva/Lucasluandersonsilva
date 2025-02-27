@@ -13,7 +13,7 @@ Apaixonado por desafios e aprendizado constante, sou um profissional proativo qu
  Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
  Metodologias ágeis: Atuei em projetos com metodologia Scrum e kanban, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
 
-⚙ **Habilidades técnicas:** Linguagens de programação: Java e JavaScript (básico)
+⚙ **Habilidades técnicas:** Linguagens de programação: Java e JavaScript 
 
 ✅ **Tecnologias de teste:** Selenium, CodeceptJS, Restassured, Cucumber Options e Page Objects
 
